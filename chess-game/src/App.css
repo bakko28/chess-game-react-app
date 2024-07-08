@@ -53,3 +53,25 @@
   border-radius: 50%;
   background-color: #22c022;
 }
+
+.heading-text {
+  color: #fff;
+  font-weight: 600;
+  font-size: 64px;
+  margin-bottom: 8px;
+}
+
+.lost {
+  height: calc(50vh - 60px);
+  padding: 30px;
+  margin-left: 50px;
+  background-color: lightgray;
+}
+
+.currentPlayer h3 {
+  background-color: lightgray;
+  margin-bottom: 8px;
+  font-weight: 400;
+  font-size: 32px;
+  padding: 16px;
+}
